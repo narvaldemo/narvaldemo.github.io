@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE document [
+		<!ENTITY nbsp " ">
+	]>
+	<rss version="2.0"><channel>
+		<title>Narval blog</title>
+		<link>https://yourblog.github.io</link>
+		<description>Publish and see</description>
+		<language>fr-FR</language>
+		<generator>Narval</generator>
+		<ttl>120</ttl>
+		<item>
+			<title>Vers un meilleur web</title>
+			<link>https://yourblog.github.io/posts/vers-un-meilleur-web.html</link>
+			<description></description>
+		</item><item>
+			<title>Blog styles / Styles du blog</title>
+			<link>https://yourblog.github.io/posts/blog-styles-sur-styles-du-blog.html</link>
+			<description>We will see here all the layout possibilities offered by the CSS file. This article aims to use it to create easily its own theme.Nous allons voir ici toutes les possibilités de mises en page offertes par le fichier CSS. Cet article a pour objectif de s'en servir pour créer facilement son propre thème.</description>
+		</item><item>
+			<title>Où déployer&nbsp;?</title>
+			<link>https://yourblog.github.io/posts/où-déployer.html</link>
+			<description>À rédiger</description>
+		</item><item>
+			<title>Présentation de Narval</title>
+			<link>https://yourblog.github.io/posts/présentation-de-narval.html</link>
+			<description>Bienvenue sur ce blog.Cet article, comme les trois autres qui sont présents par défaut sur ce blog, permet d'obtenir une démonstration du blog afin de pouvoir commencer à le personnaliser.</description>
+		</item>
+	</channel></rss>
