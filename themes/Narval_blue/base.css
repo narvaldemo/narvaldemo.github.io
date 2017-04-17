@@ -30,6 +30,7 @@ footer { font-size: .9em; text-align: center; margin-top: 50px; }
 .postInfos { margin-top: -17px; font-size: .85em; color: #c3ceda; }
 .postInfos a { text-decoration: none; padding: 1px 2px; margin: 0 3px; border-radius: 4px; color: #1f2832; background: #c3ceda; }
 .postInfos a:hover { background: #fff; color: #1f2832; }
+.postInfos .countComments { background: url("img/comment.svg") no-repeat; padding-left: 20px; }
 
 .thumb { width: 210px; display: inline-table; padding: 0px; margin: 15px 3px; font-size: .8em; }
 .thumb a { text-decoration: none; }
