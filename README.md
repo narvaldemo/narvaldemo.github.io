@@ -1,6 +1,6 @@
 # Narval blog
 
-[This blog](https://narvaldemo.github.io) is generated with [**_Narval_**](https://github.com/yultivert/narval), an opensource static blog generator. Last update the 25 April 2017 at 23h36.
+[This blog](https://narvaldemo.github.io) is generated with [**_Narval_**](https://github.com/yultivert/narval), an opensource static blog generator. Last update the 29 April 2017 at 16h30.
 
 ---
 
